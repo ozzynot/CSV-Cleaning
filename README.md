@@ -4,6 +4,8 @@ Oscar Arenas
 ## Dataset
 Dataset taken from https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data
 
+This Lab is meant to clean a csv file for future usage in WEKA. It clears up empty rows and columns.
+
 ### Instructions
 1. Unzip the folder
 2. View uncleaned data (hotel_bookings.csv) using viewer of choice
